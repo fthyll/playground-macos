@@ -1,32 +1,32 @@
-# About Me
-
-## Biography
-
-Hey there! I received my master's degree in [Computer Science](https://www.bu.edu/cs/) at [Boston University](https://www.bu.edu/) and bachelor's degree in [Software Engineering](http://sse.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
-
-I'm trying to find a balance between research and engineering.
-
-My current research interests lie primarily in understanding and improving continuity, generalizability, efficiency and other key properties of machine learning. I'm also interested in vision-language and video models.
-
-I'm also learning web development and building machine learning softwares and systems.
+<!--
+**fthyll/.github** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
+-->
 
 
-## Contact
+<!-- <img src=""> this is another way you can add in images and allows you to scale them -->
 
-Contact me by:
+[![MasterHead](asset/welcome.gif)](https://fthyll-dev.tech)
 
-- Email: [renovamenzxh@gmail.com](mailto:renovamenzxh@gmail.com)
-- Github: [@Renovamen](https://github.com/Renovamen)
-- [Google Scholar](https://scholar.google.com/citations?user=RuW6xgMAAAAJ)
-- Linkedin: [xiaohan-zou](https://www.linkedin.com/in/xiaohan-zou)
-- 知乎: [@西伯利亚大恶龙](https://www.zhihu.com/people/chao-neng-gui-su)
-- Personal Website: [zxh.io](https://zxh.io)
+<h1 align="center">Hi 👋, I'm Muhammad Fatih Yumna Lajuwirdi Lirrahman</h1>
 
+<h3 align="center">🎓I am a student at Telkom University🎓</h3>
 
-## Résumé
+<img align="right" alt="Coding" width="260" src="asset/memoji-1.png">
 
-- Normal version: [English](https://zxh.io/files/cv/en.pdf) / [中文](https://zxh.io/files/cv/cn.pdf)
+<h3 align="left"> 😁 Glad to see you here! </h3>
 
-  中文版的更新很可能不及时
+>let me introduce myself My name is ***Muhammad Fatih Yumna Lajuwirdi Lirrahman***. I am currently a student at Telkom University studying Informatics. I am passionate about technology and am interested in pursuing a career in this field. As a student, I strive to learn and master the basics of programming, as well as having the ability to write code and solve problems. I am also able to use various software such as MS Office and Google Suite efficiently.
+>
+> In addition, I am proficient in the English language, allowing me to understand and communicate well. My hobbies include listening to music, playing games, and reading books. I am always interested in learning about new technology and expanding my knowledge in the IT field. I hope to find opportunities to collaborate with professionals in my field of interest and learn more from them.
 
-- Interesting version: [portfolio.zxh.io](https://portfolio.zxh.io) / [resume.zxh.io](https://resume.zxh.io)
+<table><tr><td valign="center" width="50%">
+
+- 🌱 I’m currently learning **C / #C / C++**
+
+- 👯 I’m looking to collaborate on [Musicium](https://github.com/Tomato6966/Musicium)
+
+- 💬 Ask me about **whatever....**
+
+- 📫 How to reach me **m.fatihyumna25@gmail.com**
+
+</td><td valign="top" width="50%">
