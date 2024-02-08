@@ -13,8 +13,8 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I received my master's degree in Computer Science
-              at Boston University and bachelor's degree in Software Engineering at Tongji
+              Hi, this is Muhammad Fatih Yumna. I received my master's degree in Computer Science
+              at Boston University and bachelor's degree in Software Engineering at Telkom 
               University.
             </div>
           </div>
@@ -74,22 +74,22 @@ const terminal: TerminalData[] = [
               Linkedin:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://www.linkedin.com/in/muhammad-fatih-yumna-lajuwirdi-lirrahman"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                Muhammad Fatih Yumna
               </a>
             </li>
             <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.io"
+                href="https://fthyll.my.id"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.io
+                https://fthyll.my.id
               </a>
             </li>
             <li>
